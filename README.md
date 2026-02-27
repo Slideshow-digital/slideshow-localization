@@ -1,20 +1,46 @@
-# Slideshow Digital Signage software - localizations and translations
+# SlideShow Digital Signage System - localizations and translations
 
-This repository contains localization files for Slideshow software.
+This repository contains localization files for SlideShow app.
 
 ## How to contribute
 
-If you want to fix a problem in the existing translation or add translation for a language that isn't here yet, **feel free to create a pull request**, create an issue, or just contact me directly. I will be happy to merge it (or fix it) and it will be added to the following release of Slideshow software.
+If you would like to fix an existing translation or add a new language, you can:
+- Create a pull request
+- Open an issue
+- Contact us directly (<slideshow@slideshow.digital>)
 
-Localization of Slideshow software is divided into two parts (see two folders in this repository):
-- **backend** - one file for each language, key=value format. There is also Excel file localization.xlsx with all languages in one table, for the reference.
-- **web-interface** - one file for all languages, JavaScript format: `localization.lang["key"] = "value";`
+We’ll gladly review your contribution and include it in the next SlideShow release.
 
-Please update both parts (otherwise I will have to use Google Translate and that might not be pretty :smiley:). Use UTF-8 encoding for the files.
+## Localization structure
 
-If you use a translation service (such as Google Translate) as a help, please review every translation manually afterwards. Such services tend to break some of the formatting and the quality of the translation without manual check is not sufficient.
+Localization is divided into two parts (see folders in this repository):
 
-## Current languages:
+- **backend**
+   - One file per language
+   - Format: key=value 
+   - The file `localization.xlsx` contains all languages in a single table for reference
+- **web-interface**
+   - One file containing all languages
+   - JavaScript format:
+     ```
+	 localization.lang["key"] = "value";
+	 ```
+
+:warning: Please update both parts. Otherwise, we may need to rely on machine translation, which can reduce quality.
+
+All files must use UTF-8 encoding.
+
+## Translation quality guidelines
+
+If you use machine translation (e.g., Google Translate):
+- Review translations manually
+- Verify formatting and placeholders
+- Ensure natural phrasing and accuracy
+
+Machine translation alone is usually insufficient without manual review.
+
+## Current languages
+
 - Chinese (thanks to evin792)
 - Croatian (thanks to Josip Papić)
 - Czech (thanks to Aleš Obst)
@@ -33,9 +59,10 @@ If you use a translation service (such as Google Translate) as a help, please re
 - Spanish (thanks to Rafael García)
 - Turkish (thanks to İlker Berberler)
 
+## About SlideShow
 
-## About Slideshow
+SlideShow is a free digital signage system for Android.
 
-Slideshow is free digital signage software for Android.
-
-Find more information about Slideshow on https://slideshow.digital/ or download it directly on https://slideshow.digital/how-to-get-it/.
+Learn more or download the app:
+- <https://slideshow.digital/>
+- <https://slideshow.digital/how-to-get-it/>
