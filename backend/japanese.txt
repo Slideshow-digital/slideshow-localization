@@ -1029,3 +1029,7 @@ snmp_agent_port=SNMPエージェントのポート
 snmp_agent_port_help=SNMPエージェントのUDPポート番号。1000より大きいポート番号のみ使用できます。<br><i>この変更を適用するには再読み込みが必要です。</i>
 snmp_agent_community=SNMPコミュニティ文字列
 snmp_agent_community_help=SNMPのセキュリティコミュニティ文字列。<br><i>この変更を適用するには再読み込みが必要です。</i>
+screen_power_off=画面をオフ
+screen_power=画面電源
+not_supported_on_this_device=このデバイスではサポートされていません
+screen_power_off_not_available=このデバイスでは画面の電源オフが利用できない場合があります。設定メニュー - <a href="/screen_control">画面電源</a>で詳細をご確認ください。

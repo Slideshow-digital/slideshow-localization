@@ -1029,3 +1029,7 @@ snmp_agent_port=Port za SNMP agent
 snmp_agent_port_help=UDP broj porta za SNMP agent. Dostupni su samo portovi veći od 1000.<br><i>Za primjenu ove promjene potrebno je ponovno učitati.</i>
 snmp_agent_community=SNMP community string
 snmp_agent_community_help=Sigurnosni community string za SNMP.<br><i>Za primjenu ove promjene potrebno je ponovno učitati.</i>
+screen_power_off=Isključi zaslon
+screen_power=Napajanje zaslona
+not_supported_on_this_device=Nije podržano na ovom uređaju
+screen_power_off_not_available=Isključivanje zaslona možda nije dostupno na ovom uređaju. Provjerite izbornik Postavke - <a href="/screen_control">Napajanje zaslona</a> za više detalja.

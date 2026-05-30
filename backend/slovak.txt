@@ -1029,3 +1029,7 @@ snmp_agent_port=Port SNMP agenta
 snmp_agent_port_help=UDP číslo portu pre SNMP agenta. Dostupné sú len porty vyššie ako 1000.<br><i>Na aplikovanie tejto zmeny je potrebné znovunačítanie.</i>
 snmp_agent_community=SNMP community reťazec
 snmp_agent_community_help=Bezpečnostný community reťazec pre SNMP.<br><i>Na aplikovanie tejto zmeny je potrebné znovunačítanie.</i>
+screen_power_off=Vypnutá obrazovka
+screen_power=Napájanie obrazovky
+not_supported_on_this_device=Nepodporované na tomto zariadení
+screen_power_off_not_available=Vypnutie obrazovky nemusí byť na tomto zariadení dostupné. Skontrolujte menu Nastavenia - <a href="/screen_control">Napájanie obrazovky</a> pre viac informácií.

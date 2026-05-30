@@ -1029,3 +1029,7 @@ snmp_agent_port=Port for SNMP agent
 snmp_agent_port_help=UDP port number for SNMP agent. Only port numbers higher than 1000 are available.<br><i>Reload is required for applying this change.</i>
 snmp_agent_community=SNMP community string
 snmp_agent_community_help=Security community string for SNMP.<br><i>Reload is required for applying this change.</i>
+screen_power_off=Screen power off
+screen_power=Screen power
+not_supported_on_this_device=Not supported on this device
+screen_power_off_not_available=Screen power off might not be available on this device. Please check menu Settings - <a href="/screen_control">Screen power</a> for more details.

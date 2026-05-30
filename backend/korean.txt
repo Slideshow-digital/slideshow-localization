@@ -1029,3 +1029,7 @@ snmp_agent_port=SNMP 에이전트 포트
 snmp_agent_port_help=SNMP 에이전트의 UDP 포트 번호입니다. 1000보다 큰 포트 번호만 사용할 수 있습니다.<br><i>이 변경 사항을 적용하려면 다시 로드해야 합니다.</i>
 snmp_agent_community=SNMP 커뮤니티 문자열
 snmp_agent_community_help=SNMP용 보안 커뮤니티 문자열입니다.<br><i>이 변경 사항을 적용하려면 다시 로드해야 합니다.</i>
+screen_power_off=화면 끄기
+screen_power=화면 전원
+not_supported_on_this_device=이 장치에서는 지원되지 않습니다
+screen_power_off_not_available=이 장치에서는 화면 끄기 기능을 사용할 수 없을 수 있습니다. 설정 메뉴 - <a href="/screen_control">화면 전원</a>에서 자세한 내용을 확인하세요.

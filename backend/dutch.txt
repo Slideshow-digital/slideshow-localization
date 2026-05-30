@@ -1029,3 +1029,7 @@ snmp_agent_port=Poort voor SNMP-agent
 snmp_agent_port_help=UDP-poortnummer voor de SNMP-agent. Alleen poortnummers boven 1000 zijn beschikbaar.<br><i>Herstart is vereist om deze wijziging toe te passen.</i>
 snmp_agent_community=SNMP-communitystring
 snmp_agent_community_help=Beveiligings-communitystring voor SNMP.<br><i>Herstart is vereist om deze wijziging toe te passen.</i>
+screen_power_off=Scherm uitschakelen
+screen_power=Schermvoeding
+not_supported_on_this_device=Niet ondersteund op dit apparaat
+screen_power_off_not_available=Scherm uitschakelen is mogelijk niet beschikbaar op dit apparaat. Zie menu Instellingen - <a href="/screen_control">Schermvoeding</a> voor meer informatie.

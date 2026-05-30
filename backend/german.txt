@@ -1029,3 +1029,7 @@ snmp_agent_port=Port für SNMP-Agent
 snmp_agent_port_help=UDP-Portnummer für den SNMP-Agenten. Es sind nur Portnummern über 1000 verfügbar.<br><i>Zum Anwenden dieser Änderung ist ein Neuladen erforderlich.</i>
 snmp_agent_community=SNMP-Community-String
 snmp_agent_community_help=Sicherheits-Community-String für SNMP.<br><i>Zum Anwenden dieser Änderung ist ein Neuladen erforderlich.</i>
+screen_power_off=Bildschirm ausschalten
+screen_power=Bildschirmstrom
+not_supported_on_this_device=Auf diesem Gerät nicht unterstützt
+screen_power_off_not_available=Bildschirm ausschalten ist auf diesem Gerät möglicherweise nicht verfügbar. Siehe Einstellungen - <a href="/screen_control">Bildschirmstrom</a> für weitere Details.

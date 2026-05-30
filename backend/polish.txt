@@ -1029,3 +1029,7 @@ snmp_agent_port=Port agenta SNMP
 snmp_agent_port_help=Numer portu UDP dla agenta SNMP. Dostępne są tylko porty powyżej 1000.<br><i>Aby zastosować tę zmianę, wymagane jest ponowne wczytanie.</i>
 snmp_agent_community=Ciąg community SNMP
 snmp_agent_community_help=Ciąg community zabezpieczeń dla SNMP.<br><i>Aby zastosować tę zmianę, wymagane jest ponowne wczytanie.</i>
+screen_power_off=Wyłączenie ekranu
+screen_power=Zasilanie ekranu
+not_supported_on_this_device=Nieobsługiwane na tym urządzeniu
+screen_power_off_not_available=Wyłączenie ekranu może nie być dostępne na tym urządzeniu. Sprawdź menu Ustawienia - <a href="/screen_control">Zasilanie ekranu</a> po więcej informacji.

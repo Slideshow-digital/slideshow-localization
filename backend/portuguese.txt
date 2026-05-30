@@ -1029,3 +1029,7 @@ snmp_agent_port=Porta do agente SNMP
 snmp_agent_port_help=Número da porta UDP para o agente SNMP. Apenas portas acima de 1000 estão disponíveis.<br><i>É necessário recarregar para aplicar esta alteração.</i>
 snmp_agent_community=String de comunidade SNMP
 snmp_agent_community_help=String de comunidade de segurança para SNMP.<br><i>É necessário recarregar para aplicar esta alteração.</i>
+screen_power_off=Desligar ecrã
+screen_power=Energia do ecrã
+not_supported_on_this_device=Não suportado neste dispositivo
+screen_power_off_not_available=Desligar o ecrã pode não estar disponível neste dispositivo. Verifique o menu Definições - <a href="/screen_control">Energia do ecrã</a> para mais detalhes.
