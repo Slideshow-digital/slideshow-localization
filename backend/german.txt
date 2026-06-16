@@ -293,7 +293,7 @@ scale_type_fit_center=Mittig eingepasst (keine Skalierung)
 scale_type_center_crop=Bild einheitlich skalieren (Seitenverhältnis des Bildes beibehalten)
 scale_type_center=Mittig eingepasst (Höhe oder Breite wird angepasst)
 scale_type_fit_xy=Anpassung an Bildschirm (event. wird das Seitenverhältnis geändert)
-marketing_appeal=Diese Version wird kostenlos zur Verfügung gestellt. Wenn Sie an Änderungen an dieser Software oder an der Kennzeichnung mit Ihrer Marke interessiert sind, wenden Sie sich bitte an <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>.
+marketing_appeal=Diese Version wird kostenlos zur Verfügung gestellt. Wenn Sie an Änderungen an dieser Software oder an der Kennzeichnung mit Ihrer Marke interessiert sind, wenden Sie sich bitte an <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>.
 playlists_help=Playlist ist eine Reihe von Elementen, die im Zyklus abgespielt werden. Sie können verschiedene Wiedergabelisten für verschiedene Panels an verschiedenen Stellen des Tages einstellen.
 items_help=Ein Eintrag enthält eine oder mehrere hochgeladene Dateien (die Auswahl basiert auf den Dateinamen), Wettervorhersage, RSS-Nachrichten, Datum und Uhrzeit usw. Wenn Sie ein Element auf dem Bildschirm abspielen möchten, ordnen Sie es der Wiedergabeliste zu.
 screen_layouts=Bildschirm-Layout
@@ -406,7 +406,7 @@ reporter_message=Nachricht
 reporter_message_help=Details des Fehlers oder der Verbesserung
 reporter_email=E-Mail-Adresse
 reporter_email_help=Kontakt-E-Mail, wenn Sie eine Antwort wünschen
-cant_send_report=Fehler beim Senden des Berichts aufgetreten. Sie können die Entwickler unter slideshow@slideshow.digital kontaktieren.
+cant_send_report=Fehler beim Senden des Berichts aufgetreten. Sie können die Entwickler unter support@slideshow.digital kontaktieren.
 report_sent=Danke für das Einreichen des Fehlerberichts, wir werden diesen prüfen und Sie per E-Mail kontaktieren (überprüfen Sie auch Ihren Spam-Ordner, wenn Sie innerhalb weniger Tage keine Antwort erhalten).
 file_saved=Datei wurde erfolgreich gespeichert
 cant_delete_used_on_panels=Kann nicht gelöscht werden, es wird auf Panels verwendet

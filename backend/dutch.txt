@@ -293,7 +293,7 @@ scale_type_fit_center=Gecentreerd (geen schaalverdeling)
 scale_type_center_crop=Afbeelding gelijkmatig schalen (beeldverhouding behouden)
 scale_type_center=Gecentreerd (hoogte of breedte wordt aangepast)
 scale_type_fit_xy=Aanpassing aan het scherm (de beeldverhouding kan worden gewijzigd)
-marketing_appeal=Deze versie wordt gratis verstrekt. Als u geïnteresseerd bent in het aanbrengen van wijzigingen in deze software of in het aanbrengen van uw merkidentiteit, neem dan contact op met <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>.
+marketing_appeal=Deze versie wordt gratis verstrekt. Als u geïnteresseerd bent in het aanbrengen van wijzigingen in deze software of in het aanbrengen van uw merkidentiteit, neem dan contact op met <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>.
 playlists_help=Een afspeellijst is een reeks items die in een cyclus worden afgespeeld. U kunt verschillende afspeellijsten instellen voor verschillende panelen op verschillende tijdstippen van de dag.
 items_help=Een item bevat een of meerdere geüploade bestanden (de selectie is gebaseerd op de bestandsnamen), weersvoorspelling, RSS-nieuws, datum en tijd, etc. Als u een item op het scherm wilt afspelen, wijst u het toe aan de afspeellijst.
 screen_layouts=Schermindeling
@@ -406,7 +406,7 @@ reporter_message=Nieuws
 reporter_message_help=Details van de fout of verbetering
 reporter_email=E-mailadres
 reporter_email_help=Contact e-mailadres als u een antwoord wenst
-cant_send_report=Er is een fout opgetreden bij het verzenden van het rapport. U kunt contact opnemen met de ontwikkelaars via slideshow@slideshow.digital.
+cant_send_report=Er is een fout opgetreden bij het verzenden van het rapport. U kunt contact opnemen met de ontwikkelaars via support@slideshow.digital.
 report_sent=Hartelijk dank voor het indienen van de bugmelding. We gaan deze beoordelen en per e-mail contact met u opnemen (controleer ook uw spamfolder als u binnen een paar dagen geen antwoord ontvangt).
 file_saved=Bestand is succesvol opgeslagen
 cant_delete_used_on_panels=Kan niet worden verwijderd, wordt gebruikt op scherm layout

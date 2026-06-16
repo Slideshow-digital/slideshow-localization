@@ -293,7 +293,7 @@ scale_type_fit_center=フィットセンター
 scale_type_center_crop=センタークロップ
 scale_type_center=センター（スケーリングなし）
 scale_type_fit_xy=画面にフィット
-marketing_appeal=このバージョンは無料で提供されます。 このソフトウェアの変更またはブランドのホワイトラベルバージョンに興味がある場合は、<a href='https://slideshow.digital/branding/'>https://slideshow.digital/branding/にアクセスしてください。</a>または<a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>に連絡してください。
+marketing_appeal=このバージョンは無料で提供されます。 このソフトウェアの変更またはブランドのホワイトラベルバージョンに興味がある場合は、<a href='https://slideshow.digital/commercial/white-label/'>https://slideshow.digital/commercial/white-label/にアクセスしてください。</a>または<a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>に連絡してください。
 playlists_help=プレイリストは、一定周期で再生されるアイテムのセットです。 1日の一部で、さまざまなプレイリストをさまざまなパネルに設定できます。
 items_help=アイテムには、アップロードされた1つ以上のファイル（ファイル名に基づいて選択）、天気予報、RSSニュース、日時などが含まれます。画面でアイテムを再生する場合は、そのアイテムをプレイリストに割り当てます。
 screen_layouts=画面レイアウト
@@ -406,7 +406,7 @@ reporter_message=メッセージ
 reporter_message_help=バグまたは拡張機能の詳細
 reporter_email=メール
 reporter_email_help=返信をご希望の場合はメールにご連絡ください
-cant_send_report=レポートの送信中にエラーが発生しました。slideshow@slideshow.digitalで開発者に連絡することができます。
+cant_send_report=レポートの送信中にエラーが発生しました。support@slideshow.digitalで開発者に連絡することができます。
 report_sent=バグレポートを送信していただきありがとうございます。確認し、メールでご連絡いたします（数日以内に返信がない場合は、スパムフォルダも確認してください）。
 file_saved=ファイルは正常に保存されました
 cant_delete_used_on_panels=削除できません。パネルで使用されます

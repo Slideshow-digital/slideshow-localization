@@ -293,7 +293,7 @@ scale_type_fit_center=Dopasuj do środka
 scale_type_center_crop=Przytnij do środka
 scale_type_center=wycentruj(bez skalowania)
 scale_type_fit_xy=Dopasuj do obrazu
-marketing_appeal=Ta wersja jest udostępniana bezpłatnie. Jeśli interesują Cię jakiekolwiek modyfikacje tego oprogramowania lub oznakowanie go marką, skontaktuj się z nami <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>.
+marketing_appeal=Ta wersja jest udostępniana bezpłatnie. Jeśli interesują Cię jakiekolwiek modyfikacje tego oprogramowania lub oznakowanie go marką, skontaktuj się z nami <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>.
 playlists_help=Lista odtwarzania to zestaw elementów, które są odtwarzane w cyklu. Możesz ustawić różne listy odtwarzania dla różnych paneli w niektórych częściach dnia.
 items_help=Element zawiera jeden lub więcej przesłanych plików (pobieranie jest oparte na nazwach plików), prognoza pogody, wiadomości RSS, data i godzina itp. Jeśli chcesz odtworzyć Element na ekranie, przypisz go do listy odtwarzania.
 screen_layouts=Wygląd ekranu
@@ -406,7 +406,7 @@ reporter_message=Wiadomość
 reporter_message_help=Szczegóły błędu lub ulepszenia
 reporter_email=Twój e-mail
 reporter_email_help=Skontaktuj się z e-mailem, jeśli chcesz otrzymać odpowiedź
-cant_send_report=Wystąpił błąd podczas wysyłania raportu. Możesz skontaktować się z deweloperami na slideshow@slideshow.digital.
+cant_send_report=Wystąpił błąd podczas wysyłania raportu. Możesz skontaktować się z deweloperami na support@slideshow.digital.
 report_sent=Dziękujemy za przesłanie raportu o błędzie, sprawdzimy go i skontaktujemy się z Tobą za pośrednictwem wiadomości e-mail (sprawdź także folder spamu, jeśli nie otrzymasz odpowiedzi w ciągu kilku dni).
 file_saved=Plik został pomyślnie zapisany
 cant_delete_used_on_panels=Nie można usunąć, jest używany w panelach

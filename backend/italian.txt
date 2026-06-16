@@ -293,7 +293,7 @@ scale_type_fit_center=Adattamento centrale
 scale_type_center_crop=Ritaglia centrale
 scale_type_center=Centro (nessun ridimensionamento)
 scale_type_fit_xy=Adatta allo schermo
-marketing_appeal=Questa versione è fornita gratuitamente. Se sei interessato a qualsiasi modifica di questo software o al marchio con il tuo marchio, contatta <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>.
+marketing_appeal=Questa versione è fornita gratuitamente. Se sei interessato a qualsiasi modifica di questo software o al marchio con il tuo marchio, contatta <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>.
 playlists_help=La playlist è un insieme di elementi che vengono riprodotti nel ciclo. È possibile impostare playlist diverse su pannelli diversi in alcune parti della giornata.
 items_help=L'articolo include uno o più file caricati (la selezione si basa sui nomi dei file), previsioni del tempo, notizie RSS, data e ora, ecc. Se si desidera riprodurre un elemento sullo schermo, assegnarlo alla playlist.
 screen_layouts=Layout dello schermo
@@ -406,7 +406,7 @@ reporter_message=Messaggio
 reporter_message_help=Dettagli di bug o miglioramento
 reporter_email=La tua email
 reporter_email_help=Contattaci tramite email se desideri una risposta
-cant_send_report=Errore durante l'invio del rapporto. Puoi contattare gli sviluppatori su slideshow@slideshow.digital.
+cant_send_report=Errore durante l'invio del rapporto. Puoi contattare gli sviluppatori su support@slideshow.digital.
 report_sent=Grazie per aver inviato la segnalazione di bug, la esamineremo e ti ricontatteremo via e-mail (controlla anche la tua cartella spam se non ricevi una risposta entro pochi giorni).
 file_saved=Il file è stato salvato con successo
 cant_delete_used_on_panels=Impossibile eliminare, viene utilizzato sui pannelli

@@ -293,7 +293,7 @@ scale_type_fit_center=Sredina
 scale_type_center_crop=Sredina s obrezivanjem
 scale_type_center=Sredina (bez skaliranja)
 scale_type_fit_xy=Prilagodi zaslonu
-marketing_appeal=Ova se verzija pruža besplatno. Ako ste zainteresirani za bilo kakve modifikacije ovog softvera ili ga označavate svojom robnom markom, obratite se <a href='mailto:slideshow@slideshow.digital'> slideshow@slideshow.digital</a>.
+marketing_appeal=Ova se verzija pruža besplatno. Ako ste zainteresirani za bilo kakve modifikacije ovog softvera ili ga označavate svojom robnom markom, obratite se <a href='mailto:info@slideshow.digital'> info@slideshow.digital</a>.
 playlists_help=Popis za reprodukciju skup je stavki koje se reproduciraju u ciklusu. Možete postaviti različite popise pjesama na različite ploče u dijelovima dana.
 items_help=Stavka uključuje jednu ili više učitanih datoteka (odabir se temelji na nazivima datoteka), vremensku prognozu, RSS vijesti, datum i vrijeme itd. Ako želite reproducirati stavku na zaslonu, dodijelite je na popis za reprodukciju.
 screen_layouts=Izgled zaslona
@@ -406,7 +406,7 @@ reporter_message=Poruka
 reporter_message_help=Pojedinosti o bugu ili poboljšanju
 reporter_email=Vaš email
 reporter_email_help=Kontaktirajte e-mail ako želite odgovoriti
-cant_send_report=Došlo je do pogreške prilikom slanja izvješća. Programerima se možete obratiti na slideshow@slideshow.digital.
+cant_send_report=Došlo je do pogreške prilikom slanja izvješća. Programerima se možete obratiti na support@slideshow.digital.
 report_sent=Zahvaljujemo što ste poslali izvještaj o programskoj pogrešci, mi ćemo ga pregledati i javit ćemo vam se e-poštom (provjerite i mapu s neželjenom poštom ako odgovor ne dobijete u roku od nekoliko dana).
 file_saved=Datoteka je uspješno spremljena
 cant_delete_used_on_panels=Ne može se izbrisati, koristi se na panelima

@@ -293,7 +293,7 @@ scale_type_fit_center=Fit center
 scale_type_center_crop=Center crop
 scale_type_center=Center (bez škálovania)
 scale_type_fit_xy=Fit to screen
-marketing_appeal=Táto verzia je poskytnutá zadarmo. Ak máte záujem o akékoľvek modifikácie alebo obrandovanie tohto softwaru, prosím kontaktujte <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>.
+marketing_appeal=Táto verzia je poskytnutá zadarmo. Ak máte záujem o akékoľvek modifikácie alebo obrandovanie tohto softwaru, prosím kontaktujte <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>.
 playlists_help=Playlist je skupina položiek, ktoré sú prehrávané v cykle. Na rôzne časti dňa môžete nastaviť rôzne playlisty do rôznych zón rozloženia obrazovky.
 items_help=Položka zahŕňa jeden alebo viacero nahratých súborov (vybratých na základe ich názvu), predpoveď počasia, RSS správy, dátum a čas, atď. Ak chcete položku prehrať na obrazovke, zaraďte ju do playlistu.
 screen_layouts=Rozloženie obrazovky
@@ -406,7 +406,7 @@ reporter_message=Správa
 reporter_message_help=Detaily o chybe alebo návrhu na zlepšenie
 reporter_email=Váš email
 reporter_email_help=Kontaktný email v prípade, že by ste chceli odpoveď
-cant_send_report=Nastala chyba pri posielaní správy. Prosím kontaktujte vývojárov emailom na slideshow@slideshow.digital.
+cant_send_report=Nastala chyba pri posielaní správy. Prosím kontaktujte vývojárov emailom na support@slideshow.digital.
 report_sent=Ďakujeme za zaslanie správy, budeme sa jej venovať v blízkom čase a odpovieme Vám emailom (prosím skontrolujte svoj spam priečinok, ak nedostanete odpoveď v priebehu pár dní).
 file_saved=Súbor bol uložený
 cant_delete_used_on_panels=Nie je možné zmazať, je použité v zónach

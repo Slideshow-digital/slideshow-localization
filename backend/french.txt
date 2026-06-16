@@ -293,7 +293,7 @@ scale_type_fit_center=Ajustement au centre
 scale_type_center_crop=Centré (rogné)
 scale_type_center=Centré (pas de mise à l'échelle)
 scale_type_fit_xy=S'adapte à l'écran
-marketing_appeal=Cette version est fournie gratuitement. Si vous êtes intéressé par des modifications de ce logiciel ou par sa personnalisation avec votre marque, veuillez contacter <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>.
+marketing_appeal=Cette version est fournie gratuitement. Si vous êtes intéressé par des modifications de ce logiciel ou par sa personnalisation avec votre marque, veuillez contacter <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>.
 playlists_help=La playlist (liste de lecture) est un ensemble d'éléments qui sont lus dans le cycle. Vous pouvez définir différentes listes de lecture sur différents panneaux à certaines parties de la journée.
 items_help=L'élément comprend un ou plusieurs fichiers chargés (la sélection est basée sur les noms de fichier), les prévisions météorologiques, les actualités RSS, la date et l'heure, etc. Si vous souhaitez lire un élément à l'écran, attribuez-le à une playlist.
 screen_layouts=Disposition de l'écran
@@ -406,7 +406,7 @@ reporter_message=Message
 reporter_message_help=Détails du bug ou de l'amélioration
 reporter_email=Votre email
 reporter_email_help=Contactez l'e-mail si vous souhaitez une réponse
-cant_send_report=Une erreur s'est produite lors de l'envoi du rapport. Vous pouvez contacter les développeurs sur slideshow@slideshow.digital.
+cant_send_report=Une erreur s'est produite lors de l'envoi du rapport. Vous pouvez contacter les développeurs sur support@slideshow.digital.
 report_sent=Merci d'avoir soumis le rapport de bugs, nous l'examinerons et vous recontacterons par e-mail (veuillez également vérifier votre dossier spam si vous ne recevez pas de réponse dans les quelques jours).
 file_saved=Le fichier a été enregistré avec succès
 cant_delete_used_on_panels=Impossible de supprimer, il est utilisé sur les panneaux

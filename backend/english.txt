@@ -293,7 +293,7 @@ scale_type_fit_center=Fit center
 scale_type_center_crop=Center crop
 scale_type_center=Center (no scaling)
 scale_type_fit_xy=Fit to screen
-marketing_appeal=This version is provided free of charge. If you are interested in any modifications of this software or white-label version with your brand, please visit <a href='https://slideshow.digital/branding/'>https://slideshow.digital/branding/</a> or contact <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>.
+marketing_appeal=This version is provided free of charge. If you are interested in any modifications of this software or white-label version with your brand, please visit <a href='https://slideshow.digital/commercial/white-label/'>https://slideshow.digital/commercial/white-label/</a> or contact <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>.
 playlists_help=Playlist is a set of content, which is played in the cycle. You can set different playlists to different screen layout zones at parts of the day.
 items_help=Content includes one or more uploaded files (picking is based on the file names), weather forecast, RSS news, date and time, etc. If you want to play a content on the screen, assign it to a playlist.
 screen_layouts=Screen layout
@@ -406,7 +406,7 @@ reporter_message=Message
 reporter_message_help=Details of bug or enhancement
 reporter_email=Your email
 reporter_email_help=Contact email if you would like a reply
-cant_send_report=Error occurred while sending the report. You can contact the developers on slideshow@slideshow.digital.
+cant_send_report=Error occurred while sending the report. You can contact the developers on <a href="mailto:support@slideshow.digital">support@slideshow.digital</a>.
 report_sent=Thank you for submitting the bug report, we will review it and contact you back via email (please also check your spam folder if you don't receive a reply within a few days).
 file_saved=File was successfully saved
 cant_delete_used_on_panels=Can't delete, it is used in screen layout zones
@@ -671,7 +671,7 @@ keep_wifi_on=Keep WiFi on
 keep_wifi_on_help=Tells Android to keep the WiFi always on and in high performance mode. If unchecked, WiFi connection might be lost on some devices after some time, in order to save power.<br><i>Reload is required for applying this change.</i>\t
 mqtt_use_websockets=Use websockets for MQTT
 new_install_message=<p>Thank you for installing SlideShow - Digital Signage System, we hope you will like it.</p><p>You can find documentation for features on <a href="https://slideshow.digital/documentation/" target="_blank">https://slideshow.digital/documentation/</a> and watch tutorials on  <a href="https://www.youtube.com/channel/UCJFSXCItojY4PS76JNr_pdQ" target="_blank">https://www.youtube.com/channel/UCJFSXCItojY4PS76JNr_pdQ</a>.</p><p>If you like SlideShow app, you can support the development by rating the app on <a href="https://play.google.com/store/apps/details?id=sk.mimac.slideshow" target="_blank">Google Play</a> or buy us a <a href="https://ko-fi.com/slideshow" target="_blank">coffee</a>.</p><span style='float:right'>-- The Development team --</span>
-updated_version_message=<p>SlideShow app has been successfully updated to a newer version. There are following changes in this version:</p><ul><li>New settings for description text</li><li>Added option to disable interaction with a webpage on the screen</li><li>Optimized startup</li><li>Added REST API for zooming webpages</li><li>Added SNMP agent (beta)</li></ul><p>You can find documentation for features on <a href="https://slideshow.digital/documentation/" target="_blank">https://slideshow.digital/documentation/</a> and watch tutorials on <a href="https://www.youtube.com/channel/UCJFSXCItojY4PS76JNr_pdQ" target="_blank">https://www.youtube.com/channel/UCJFSXCItojY4PS76JNr_pdQ</a>.</p><p>If you like SlideShow app, you can support the development by rating the app on <a href="https://play.google.com/store/apps/details?id=sk.mimac.slideshow" target="_blank">Google Play</a> or buy us a <a href="https://ko-fi.com/slideshow" target="_blank">coffee</a>.</p><span style='float:right'>-- The Development team --</span>
+updated_version_message=<p>SlideShow app has been successfully updated to a newer version. There are following changes in this version:</p><ul><li>Bug fixes and localization updates</li></ul><p>You can find documentation for features on <a href="https://slideshow.digital/documentation/" target="_blank">https://slideshow.digital/documentation/</a> and watch tutorials on <a href="https://www.youtube.com/channel/UCJFSXCItojY4PS76JNr_pdQ" target="_blank">https://www.youtube.com/channel/UCJFSXCItojY4PS76JNr_pdQ</a>.</p><p>If you like SlideShow app, you can support the development by rating the app on <a href="https://play.google.com/store/apps/details?id=sk.mimac.slideshow" target="_blank">Google Play</a> or buy us a <a href="https://ko-fi.com/slideshow" target="_blank">coffee</a>.</p><span style='float:right'>-- The Development team --</span>
 welcome=Welcome
 mqtt_report_data=Report data through MQTT
 mqtt_report_data_help=Automatically send device info through MQTT every 2 minutes.<br><i>Reload is required for applying this change.</i>

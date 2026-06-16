@@ -293,7 +293,7 @@ scale_type_fit_center=Prilagodi na sredino
 scale_type_center_crop=Postavi na sredino in obreži
 scale_type_center=Postavi na sredino (brez prilagajanja)
 scale_type_fit_xy=Prilagodi na zaslon
-marketing_appeal=Ta aplikacija je brezplačna. Če želiš karkoli spremeniti ali pa posebno verzijo s svojo blagovno znamko, prosim obišči <a href='https://slideshow.digital/branding/'>https://slideshow.digital/branding/</a> ali piši na <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>.
+marketing_appeal=Ta aplikacija je brezplačna. Če želiš karkoli spremeniti ali pa posebno verzijo s svojo blagovno znamko, prosim obišči <a href='https://slideshow.digital/commercial/white-label/'>https://slideshow.digital/commercial/white-label/</a> ali piši na <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>.
 playlists_help=Seznam predvajanja je skupek vsebine, ki se predvaja in ciklično ponavlja. Za različne dele zaslona ob različnih urah lahko izdelaš različne sezname predvajanja.
 items_help=Vsebina vključuje eno ali več datotek (izbira glede na ime datoteke), vremensko napoved, RSS novice, datum in čas, itd. Če želiš predvajati vsebino na zaslonu, jo moraš povezati s seznamom predvajanja.
 screen_layouts=Postavitev zaslona
@@ -406,7 +406,7 @@ reporter_message=Sporočilo
 reporter_message_help=Podrobnosti o napaki ali izboljšavi
 reporter_email=Tvoj e-poštni naslov
 reporter_email_help=Kontaktni e-poštni naslov, če želiš prejeti odgovor
-cant_send_report=Napaka pri pošiljanju poročila. Razvijalcem lahko pišeš na slideshow@slideshow.digital.
+cant_send_report=Napaka pri pošiljanju poročila. Razvijalcem lahko pišeš na support@slideshow.digital.
 report_sent=Hvala za poročilo o napaki, po pregledu te bomo kontaktirali preko e-pošte (prosim, preveri mapo z neželenimi sporočili, če ne prejmeš odgovora v nekaj dneh).
 file_saved=Datoteka je bila shranjena
 cant_delete_used_on_panels=Ni mogoče izbrisati, uporabljeno je na postavitvi zaslona

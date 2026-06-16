@@ -293,7 +293,7 @@ scale_type_fit_center=Merkeze sığdır
 scale_type_center_crop=Ortadan kırp
 scale_type_center=Merkez (ölçeklendirme yok)
 scale_type_fit_xy=Ekrana sığdır
-marketing_appeal=Bu sürüm ücretsiz olarak sağlanmaktadır. Bu yazılımda veya markanızla ilgili beyaz etiketli sürümde herhangi bir değişiklikle ilgileniyorsanız, lütfen <a href='https://slideshow.digital/branding/'>https://slideshow.digital/branding/</'yi ziyaret edin. a> veya <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a> ile iletişime geçin.
+marketing_appeal=Bu sürüm ücretsiz olarak sağlanmaktadır. Bu yazılımda veya markanızla ilgili beyaz etiketli sürümde herhangi bir değişiklikle ilgileniyorsanız, lütfen <a href='https://slideshow.digital/commercial/white-label/'>https://slideshow.digital/commercial/white-label/</'yi ziyaret edin. a> veya <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a> ile iletişime geçin.
 playlists_help=Oynatma listesi, döngüde oynatılan bir dizi öğedir. Günün farklı saatlerinde farklı panellere farklı oynatma listeleri ayarlayabilirsiniz.
 items_help=Öğe bir veya daha fazla yüklenmiş dosya içerir (seçim dosya adlarına göre yapılır), hava durumu tahmini, RSS haberleri, tarih ve saat, vb. Ekranda bir öğeyi oynatmak istiyorsanız, onu oynatma listesine atayın.
 screen_layouts=Ekran düzeni
@@ -406,7 +406,7 @@ reporter_message=Mesaj
 reporter_message_help=Hatanın veya geliştirmenin ayrıntıları
 reporter_email=E-postanız
 reporter_email_help=Yanıt almak istiyorsanız e-posta ile iletişim kurun
-cant_send_report=Rapor gönderilirken hata oluştu. Geliştiricilerle slideshow@slideshow.digital adresinden iletişime geçebilirsiniz.
+cant_send_report=Rapor gönderilirken hata oluştu. Geliştiricilerle support@slideshow.digital adresinden iletişime geçebilirsiniz.
 report_sent=Hata raporunu gönderdiğiniz için teşekkür ederiz, inceleyeceğiz ve sizinle e-posta yoluyla iletişime geçeceğiz (birkaç gün içinde yanıt almazsanız lütfen spam klasörünüzü de kontrol edin).
 file_saved=Dosya başarıyla kaydedildi
 cant_delete_used_on_panels=Silinemez, bir veya daha fazla panelde kullanılıyor

@@ -293,7 +293,7 @@ scale_type_fit_center=Centro de ajuste
 scale_type_center_crop=Recorte central
 scale_type_center=Centro (sem escala)
 scale_type_fit_xy=Ajustar a Ecrân
-marketing_appeal=Esta versão é fornecida gratuitamente. Se você estiver interessado em qualquer modificação neste software ou na sua marca, entre em contato com <a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital</a>.
+marketing_appeal=Esta versão é fornecida gratuitamente. Se você estiver interessado em qualquer modificação neste software ou na sua marca, entre em contato com <a href='mailto:info@slideshow.digital'>info@slideshow.digital</a>.
 playlists_help=A lista de reprodução é um conjunto de itens que são reproduzidos no ciclo. Você pode definir listas de reprodução diferentes para painéis diferentes em partes do dia.
 items_help=O item inclui um ou mais arquivos carregados (a escolha é baseada nos nomes dos arquivos), previsão do tempo, notícias RSS, data e hora, etc. Se você deseja reproduzir um item na Ecrân, atribua-o à lista de reprodução.
 screen_layouts=Layout de Tela
@@ -406,7 +406,7 @@ reporter_message=Mensagem
 reporter_message_help=Detalhes de bug ou melhoria
 reporter_email=Seu email
 reporter_email_help=E-mail de contato se desejar uma resposta
-cant_send_report=Ocorreu um erro ao enviar o relatório. Você pode entrar em contato com os desenvolvedores em slideshow@slideshow.digital.
+cant_send_report=Ocorreu um erro ao enviar o relatório. Você pode entrar em contato com os desenvolvedores em support@slideshow.digital.
 report_sent=Obrigado por enviar o relatório de bug, iremos analisá-lo e contatá-lo via e-mail (verifique também a sua pasta de spam se você não receber uma resposta dentro de alguns dias).
 file_saved=O arquivo foi salvo com sucesso
 cant_delete_used_on_panels=Não é possível excluir, é usado em painéis

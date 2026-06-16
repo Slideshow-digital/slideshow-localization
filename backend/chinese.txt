@@ -293,7 +293,7 @@ scale_type_fit_center=贴合中心
 scale_type_center_crop=居中裁剪
 scale_type_center=居中（无缩放）
 scale_type_fit_xy=适合屏幕
-marketing_appeal=此版本是免费提供的。如果您对此软件或白标版本的任何修改感兴趣，请访问<a href='https://slideshow.digital/branding/'>https://slideshow.digital/branding/</a>或联系<a href='mailto:slideshow@slideshow.digital'>slideshow@slideshow.digital一
+marketing_appeal=此版本是免费提供的。如果您对此软件或白标版本的任何修改感兴趣，请访问<a href='https://slideshow.digital/commercial/white-label/'>https://slideshow.digital/commercial/white-label/</a>或联系<a href='mailto:info@slideshow.digital'>info@slideshow.digital一
 playlists_help=播放列表是一组内容，在循环中播放。您可以在一天中的某些时间将不同的播放列表设置为不同的屏幕布局区域。
 items_help=内容包括一个或多个上传的文件（根据文件名进行挑选）、天气预报、RSS新闻、日期和时间等。如果要在屏幕上播放内容，请将其分配到播放列表中。
 screen_layouts=屏幕布局
@@ -406,7 +406,7 @@ reporter_message=消息
 reporter_message_help=Bug的详细信息
 reporter_email=您的电子邮件
 reporter_email_help=如果您想要回复，请联系电子邮件
-cant_send_report=发送报告时出错。您可以在上联系开发人员slideshow@slideshow.digital.
+cant_send_report=发送报告时出错。您可以在上联系开发人员support@slideshow.digital.
 report_sent=感谢您提交错误报告，我们将对其进行审查，并通过电子邮件与您联系（如果您在几天内没有收到回复，也请检查您的垃圾邮件文件夹）。
 file_saved=文件已成功保存
 cant_delete_used_on_panels=无法删除，它用于屏幕布局区域
