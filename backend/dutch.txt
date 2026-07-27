@@ -1033,3 +1033,5 @@ screen_power_off=Scherm uitschakelen
 screen_power=Schermvoeding
 not_supported_on_this_device=Niet ondersteund op dit apparaat
 screen_power_off_not_available=Scherm uitschakelen is mogelijk niet beschikbaar op dit apparaat. Zie menu Instellingen - <a href="/screen_control">Schermvoeding</a> voor meer informatie.
+remote_control=Afstandsbediening
+screenshot=Schermafbeelding

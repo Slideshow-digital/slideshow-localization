@@ -1033,3 +1033,5 @@ screen_power_off=Isključi zaslon
 screen_power=Napajanje zaslona
 not_supported_on_this_device=Nije podržano na ovom uređaju
 screen_power_off_not_available=Isključivanje zaslona možda nije dostupno na ovom uređaju. Provjerite izbornik Postavke - <a href="/screen_control">Napajanje zaslona</a> za više detalja.
+remote_control=Daljinski upravljač
+screenshot=Snimka zaslona

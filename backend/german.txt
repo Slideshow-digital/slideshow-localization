@@ -1033,3 +1033,5 @@ screen_power_off=Bildschirm ausschalten
 screen_power=Bildschirmstrom
 not_supported_on_this_device=Auf diesem Gerät nicht unterstützt
 screen_power_off_not_available=Bildschirm ausschalten ist auf diesem Gerät möglicherweise nicht verfügbar. Siehe Einstellungen - <a href="/screen_control">Bildschirmstrom</a> für weitere Details.
+remote_control=Fernbedienung
+screenshot=Screenshot

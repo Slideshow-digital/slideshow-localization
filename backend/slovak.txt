@@ -1033,3 +1033,5 @@ screen_power_off=Vypnutá obrazovka
 screen_power=Napájanie obrazovky
 not_supported_on_this_device=Nepodporované na tomto zariadení
 screen_power_off_not_available=Vypnutie obrazovky nemusí byť na tomto zariadení dostupné. Skontrolujte menu Nastavenia - <a href="/screen_control">Napájanie obrazovky</a> pre viac informácií.
+remote_control=Diaľkové ovládanie
+screenshot=Snímka obrazovky

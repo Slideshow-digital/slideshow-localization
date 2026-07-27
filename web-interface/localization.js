@@ -14,6 +14,9 @@ localization["ja"] = {};
 localization["sl"] = {};
 localization["ko"] = {};
 localization["zh"] = {};
+localization["nl"] = {};
+localization["tr"] = {};
+localization["ar"] = {};
 
 localization.en["reboot"] = "Reboot device";
 localization.en["reboot_success"] = "Device was successfully rebooted";
@@ -179,6 +182,39 @@ localization.zh["invalid_file_type"] = "不支持的文件类型";
 localization.zh["file_too_big"] = "文件太大 ({{filesize}} MB)，允许最大为 {{maxFilesize}} MB";
 localization.zh["downloader_info"] = "下载信息";
 localization.zh["show_file"] = "显示文件";
+
+localization.nl["reboot"] = "Apparaat opnieuw opstarten";
+localization.nl["reboot_success"] = "Apparaat succesvol opnieuw opgestart";
+localization.nl["reload"] = "Applicatie opnieuw laden";
+localization.nl["reload_success"] = "De applicatie is succesvol opnieuw geladen";
+localization.nl["save"] = "Opslaan";
+localization.nl["drop_to_upload"] = "Klik hier of sleep bestanden hierheen om te uploaden";
+localization.nl["invalid_file_type"] = "Niet-ondersteund bestandstype";
+localization.nl["file_too_big"] = "Bestand is te groot ({{filesize}} MB), maximale grootte is {{maxFilesize}} MB";
+localization.nl["downloader_info"] = "Informatie over downloaden";
+localization.nl["show_file"] = "Bestand weergeven";
+
+localization.tr["reboot"] = "Cihazı yeniden başlat";
+localization.tr["reboot_success"] = "Cihaz başarıyla yeniden başlatıldı";
+localization.tr["reload"] = "Uygulamayı yeniden yükle";
+localization.tr["reload_success"] = "Uygulama başarıyla yeniden yüklendi";
+localization.tr["save"] = "Kaydet";
+localization.tr["drop_to_upload"] = "Yüklemek için buraya tıklayın veya dosyaları buraya bırakın";
+localization.tr["invalid_file_type"] = "Desteklenmeyen dosya türü";
+localization.tr["file_too_big"] = "Dosya çok büyük ({{filesize}} MB), maksimum boyut {{maxFilesize}} MB";
+localization.tr["downloader_info"] = "İndirme bilgileri";
+localization.tr["show_file"] = "Dosyayı göster";
+
+localization.ar["reboot"] = "إعادة تشغيل الجهاز";
+localization.ar["reboot_success"] = "تمت إعادة تشغيل الجهاز بنجاح";
+localization.ar["reload"] = "إعادة تحميل التطبيق";
+localization.ar["reload_success"] = "تمت إعادة تحميل التطبيق بنجاح";
+localization.ar["save"] = "حفظ";
+localization.ar["drop_to_upload"] = "انقر هنا أو أسقط الملفات هنا للتحميل";
+localization.ar["invalid_file_type"] = "نوع الملف غير مدعوم";
+localization.ar["file_too_big"] = "الملف كبير جدًا ({{filesize}} ميجابايت)، الحد الأقصى للحجم هو {{maxFilesize}} ميجابايت";
+localization.ar["downloader_info"] = "معلومات التحميل";
+localization.ar["show_file"] = "عرض الملف";
 
 function localizeString(key) {
 	return localization[choosen_language][key];

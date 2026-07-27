@@ -1033,3 +1033,5 @@ screen_power_off=Wyłączenie ekranu
 screen_power=Zasilanie ekranu
 not_supported_on_this_device=Nieobsługiwane na tym urządzeniu
 screen_power_off_not_available=Wyłączenie ekranu może nie być dostępne na tym urządzeniu. Sprawdź menu Ustawienia - <a href="/screen_control">Zasilanie ekranu</a> po więcej informacji.
+remote_control=Zdalne sterowanie
+screenshot=Zrzut ekranu

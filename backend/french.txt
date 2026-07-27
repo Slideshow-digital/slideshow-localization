@@ -1033,3 +1033,5 @@ screen_power_off=Éteindre l’écran
 screen_power=Alimentation de l’écran
 not_supported_on_this_device=Non pris en charge sur cet appareil
 screen_power_off_not_available=L’extinction de l’écran peut ne pas être disponible sur cet appareil. Consultez le menu Paramètres - <a href="/screen_control">Alimentation de l’écran</a> pour plus de détails.
+remote_control=Télécommande
+screenshot=Capture d’écran

@@ -1033,3 +1033,5 @@ screen_power_off=Выключение экрана
 screen_power=Питание экрана
 not_supported_on_this_device=Не поддерживается на этом устройстве
 screen_power_off_not_available=Выключение экрана может быть недоступно на этом устройстве. Проверьте меню Настройки - <a href="/screen_control">Питание экрана</a> для подробностей.
+remote_control=Пульт дистанционного управления
+screenshot=Снимок экрана

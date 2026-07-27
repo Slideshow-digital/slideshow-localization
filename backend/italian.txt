@@ -1033,3 +1033,5 @@ screen_power_off=Spegnimento schermo
 screen_power=Alimentazione schermo
 not_supported_on_this_device=Non supportato su questo dispositivo
 screen_power_off_not_available=Lo spegnimento dello schermo potrebbe non essere disponibile su questo dispositivo. Controlla il menu Impostazioni - <a href="/screen_control">Alimentazione schermo</a> per maggiori dettagli.
+remote_control=Telecomando
+screenshot=Screenshot

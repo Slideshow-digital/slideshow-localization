@@ -1033,3 +1033,5 @@ screen_power_off=Apagar pantalla
 screen_power=Energía de pantalla
 not_supported_on_this_device=No compatible con este dispositivo
 screen_power_off_not_available=Apagar pantalla puede no estar disponible en este dispositivo. Consulte el menú Configuración - <a href="/screen_control">Energía de pantalla</a> para más detalles.
+remote_control=Control remoto
+screenshot=Captura de pantalla

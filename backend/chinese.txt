@@ -1033,3 +1033,5 @@ screen_power_off=关闭屏幕
 screen_power=屏幕电源
 not_supported_on_this_device=此设备不支持
 screen_power_off_not_available=此设备可能不支持关闭屏幕功能。请在设置菜单 - <a href="/screen_control">屏幕电源</a>中查看更多信息。
+remote_control=遥控器
+screenshot=截图

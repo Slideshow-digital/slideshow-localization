@@ -41,6 +41,7 @@ Machine translation alone is usually insufficient without manual review.
 
 ## Current languages
 
+- Arabic (thanks to Hani Abdallah)
 - Chinese (thanks to evin792)
 - Croatian (thanks to Josip Papić)
 - Czech (thanks to Aleš Obst)
