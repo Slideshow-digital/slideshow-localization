@@ -1035,3 +1035,4 @@ not_supported_on_this_device=Bu cihazda desteklenmiyor
 screen_power_off_not_available=Ekranı kapatma özelliği bu cihazda mevcut olmayabilir. Daha fazla bilgi için Ayarlar menüsünden <a href="/screen_control">Ekran gücü</a>’nü kontrol edin.
 remote_control=Uzaktan kumanda
 screenshot=Ekran görüntüsü
+control_panel=Control Panel
